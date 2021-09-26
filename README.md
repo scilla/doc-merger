@@ -1,4 +1,4 @@
-# Simple document merger for .pdf & .docx
+# Simple documents merger for .pdf & .docx
 
 Requirements
  - PyPDF2
